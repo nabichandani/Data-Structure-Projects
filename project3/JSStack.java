@@ -1,6 +1,5 @@
 /**
  * Navin Abichandani
- * ID-110313627
  * Homework #3
  * Recitation 01
  * Recitation TA: Charles Chen 

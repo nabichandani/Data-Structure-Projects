@@ -1,3 +1,10 @@
+/**
+ * Navin Abichandani
+ * Homework #4
+ * Recitation 01
+ * Recitation TA: Charles Chen 
+ * Grading TA: Shilpi Bhattacharyya 
+ */
 package project4;
 
 public class DownloadRandomizer {

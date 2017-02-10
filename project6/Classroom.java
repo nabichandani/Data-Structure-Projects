@@ -1,14 +1,11 @@
-
-package project6;
 /**
  * Navin Abichandani
- * ID-110313627
  * Homework #6
  * Recitation 01
  * Recitation TA: Charles Chen 
  * Grading TA: Shilpi Bhattacharyya  
  */
-
+package project6;
 import java.io.Serializable;
 /**
  *The class is responsible for making the classroom object.
