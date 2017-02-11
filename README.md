@@ -12,10 +12,11 @@ Time worked on: From September 2016 - December 2016
 
 **Download Queue**- This project used a queue to simulate downloading premium and regular files.  The sizes of the files are based on random chance, but the probability of whether the file is premium or regular is put in by the user.  The download manager then prints out the simulation and ends withe the summary statement of the simulation.
 
-**Decision Tree** - This project used a binary tree to implement a very basic decision tree.  
+**Decision Tree** - This project used a binary tree to implement a very basic decision tree.  This system would classify text statements by detecting keywords in the phrase that was given as input.  
 
 **Room Lookup** - This project used hashmaps to create a room lookup system.  The user inputs rooms and building within the campus hashmap.  The program then organizes all of the information and makes it easy for the user to find rooms based on specific criterias.  This program also has the capability of saving using Serializable.
 
+**Movie Database**:  This project uses Java Api to save movie and actor objects from a movie database onto a List, where user can sort the actors and movies with the usage of comparators.
 
 ## Additional Notes
 
