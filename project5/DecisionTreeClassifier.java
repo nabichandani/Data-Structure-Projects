@@ -53,6 +53,7 @@ public class DecisionTreeClassifier {
 				String[] empty =  {"tree","is","empty"};
 				TreeNode tempRootNode = new TreeNode(empty);
 				tree.setRoot(tempRootNode);
+				tree.setCursor(tempRootNode);
 			}
 			boolean menu2Open = true;
 			while(menu2Open){
@@ -70,7 +71,7 @@ public class DecisionTreeClassifier {
 				
 				if(input2.equals("E") || input2.equals("e")){
 					System.out.println("Please enter keywords for this node, "
-					  + "separated by a comma: ");
+					  + "with a comma after each keyword: ");
 					String key = input.nextLine();
 					String[] keyArr = key.split("\\,");
 					tree.getCursor().setKeywords(keyArr);
