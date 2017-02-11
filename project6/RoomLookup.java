@@ -36,7 +36,7 @@ public class RoomLookup {
 	}
 	/**
  	 * Contains the driver and presents the menu so that the user can 
-	 * perform the operations upon the tree.
+	 * perform the operations upon the hashmap.
 	 */
 	public static void main(String[] args){
 		System.out.println("Welcome to SBGetARoom, Stony Brook's "
