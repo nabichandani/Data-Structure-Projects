@@ -4,16 +4,17 @@ Time worked on: From September 2016 - December 2016
 
 ## Projects
 
-**Playlist and Song Manager** - In this project I implemented a system that manages song and playlist objects using an array data structure. The system would allow me to create song objects that could be placed in various playlists and could be managed. 
+**Menu Manager** - In this project I implemented a system that manages menu item objects using an array data structure. The system would allow me to create menu items that could be placed in various menus and could be managed. 
 
-**Department Store CMS** - This project used a linked list to implement a department store content management system. It allowed a user to maintain the inventory within a sample department store and manage their content.
+**Trip Planner** - This project used 2 linked lists to implement a Trip Planner. It allowed a user to have 2 itineraries and the ability to create trip stops that can be added onto these itineraries.  Each itinerary has a cursor to track each trip stop and the program has the capability of cloning.
 
-**Elevator Wait Time Simulator** - This project used a queue to simulate the waiting time a person waits for an elevator. 
+**JavaScriptFormatter** - This project used a stack to format a javascript file and then creates a edited javascript file. 
 
-**Customer Support Tree** - This project used a ternary tree to implement a very basic customer support system. The tree worked similar to a decision tree in that it would take user input and classify what kind of support what be needed.
+**Download Queue**- This project used a queue to simulate downloading premium and regular files.  The sizes of the files are based on random chance, but the probability of whether the file is premium or regular is put in by the user.  The download manager then prints out the simulation and ends withe the summary statement of the simulation.
 
-**Email CMS** - This project used an ArrayList to create a simple email management system. The project created email objects and allowed the user to store those email objects into various folders (inbox, custom folders, trash). It also allowed the user to save their information by writing the data to an object file. 
+**Decision Tree** - This project used a binary tree to implement a very basic decision tree.  
 
+**Room Lookup** - This project used hashmaps to create a room lookup system.  The user inputs rooms and building within the campus hashmap.  The program then organizes all of the information and makes it easy for the user to find rooms based on specific criterias.  This program also has the capability of saving using Serializable.
 
 
 ## Additional Notes
